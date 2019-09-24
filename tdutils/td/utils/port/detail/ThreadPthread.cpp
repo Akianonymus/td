@@ -14,7 +14,6 @@ char disable_linker_warning_about_empty_file_thread_pthread_cpp TD_UNUSED;
 
 #include <pthread.h>
 #include <sched.h>
-#include <sys/sysctl.h>
 #include <unistd.h>
 
 namespace td {
